@@ -1,2 +1,2 @@
 # Nёll
-[![HOME]([https://github-readme-stats.vercel.app/api/wakatime?username=otoneko1102&layout=compact](https://nrnell.github.io/source/banner/istoria.png))](https://nrnell.github.io/)
+<a href="https://nrnell.github.io/" target="_blank"><img src="https://nrnell.github.io/source/banner/istoria.png" alt=""/></a>
